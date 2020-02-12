@@ -9,3 +9,5 @@ print("Hello, nice to meet you " + name)
 age = input("What's your age? ")
 
 print("I see, you are " + age " years old!")
+
+print("Goodbye!")
